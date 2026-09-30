@@ -1,5 +1,4 @@
-# Ski-dashboard
-## Recommended Structure and Order
+# CUSTOMER BEHAVIOR ANALYSIS DASHBOARD 
 ### 1.	Customer Shopping Behavior Analysis Dashboard
 An interactive Power BI dashboard and SQL‑Python workflow analyzing **3,900 retail transactions** to uncover spending patterns, customer segments, product preferences, and subscription behavior.
 
@@ -50,4 +49,4 @@ To deliver an interactive tool that:
 - 👥 Targeted Marketing: Focus on high‑revenue age groups and express‑shipping users.
 
 ### 6.	Screenshots / Demos
- ![Dashboard Preview]((https://github.com/Atharva2412/Customer-Behavior-Analysis-Dashboard-/blob/main/Snapshot%20Of%20Dashboard.png))
+ ![Dashboard Preview](https://github.com/Atharva2412/Customer-Behavior-Analysis-Dashboard-/blob/main/Snapshot%20Of%20Dashboard.png)
