@@ -24,7 +24,7 @@ The dashboard was built using the following tools and technologies:<br>
 
 ### 5.	Features 
 
-•	Business Problem
+•	Business Problem :
 Retailers struggle to identify loyal customers, discount dependencies, and subscription drivers without structured analytics.  
 
 •	Goal of the Dashboard
