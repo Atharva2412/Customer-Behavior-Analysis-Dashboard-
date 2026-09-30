@@ -51,18 +51,6 @@ To deliver an interactive tool that:
 ---
 
  6. Dashboard Preview  
-   
+   https://github.com/Atharva2412/Customer-Behavior-Analysis-Dashboard-/blob/main/Snapshot%20Of%20Dashboard.png
 
- 7. How to Use This Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Atharva2412/Customer-Shopping-Behavior-Analysis.git
-   cd Customer-Shopping-Behavior-Analysis
-   ```  
-2. Open `Customer_Shopping_Behavior_Analysis.ipynb` for Python EDA.  
-3. Load cleaned data into PostgreSQL using provided scripts.  
-4. Run SQL queries from `/sql` folder.  
-5. Open Power BI dashboard (`.pbix`) or view screenshots in `/dashboard`.  
-6. Review detailed report in `/docs`.  
 
----
