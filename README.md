@@ -50,5 +50,4 @@ To deliver an interactive tool that:
 - 👥 Targeted Marketing: Focus on high‑revenue age groups and express‑shipping users.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like.
-Example: ![Dashboard Preview]((https://github.com/Atharva2412/Customer-Behavior-Analysis-Dashboard-/blob/main/Snapshot%20Of%20Dashboard.png))
+ ![Dashboard Preview]((https://github.com/Atharva2412/Customer-Behavior-Analysis-Dashboard-/blob/main/Snapshot%20Of%20Dashboard.png))
