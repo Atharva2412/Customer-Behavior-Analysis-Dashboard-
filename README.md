@@ -1,5 +1,5 @@
 # CUSTOMER BEHAVIOR ANALYSIS DASHBOARD 
-### 1.	Customer Shopping Behavior Analysis Dashboard
+### 1.	Customer Shopping Behavior Analysis 
 An interactive Power BI dashboard and SQL‑Python workflow analyzing **3,900 retail transactions** to uncover spending patterns, customer segments, product preferences, and subscription behavior.
 
 ### 2. Purpose
